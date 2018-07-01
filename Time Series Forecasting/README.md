@@ -14,6 +14,9 @@ https://medium.com/auquan/time-series-analysis-for-finance-arma-models-21695e14c
 ### Time Series Analysis for Financial Data V — ARIMA Models  
 https://medium.com/auquan/time-series-analysis-for-finance-arima-models-acb5e39999df  
 
+### Time Series Analysis for Financial Data VI— GARCH model and predicting SPX returns  
+https://medium.com/auquan/time-series-analysis-for-finance-arch-garch-models-822f87f1d755  
+
 
 ## NoteBook  
 https://github.com/Auquan/Tutorials  
