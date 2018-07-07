@@ -22,3 +22,5 @@
 8. Action pursuit
 9. Exponential weight  
 
+## Links
+https://github.com/pranab/avenir  
