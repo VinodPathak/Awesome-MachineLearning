@@ -22,5 +22,7 @@
 8. Action pursuit
 9. Exponential weight  
 
-## Links
+## Links  
+https://www.linkedin.com/pulse/dynamic-price-optimization-multi-arm-bandit-pranab-ghosh/  
 https://github.com/pranab/avenir  
+
