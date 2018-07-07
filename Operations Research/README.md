@@ -13,3 +13,6 @@ https://github.com/rouseguy/Optimization_in_Python/tree/master/notebooks
 
 ### Decision optimization gihub catalogue IBM  
 https://github.com/IBMDecisionOptimization  
+
+### Linear optimization model for distributed energy systems  
+https://github.com/tum-ens/urbs  
