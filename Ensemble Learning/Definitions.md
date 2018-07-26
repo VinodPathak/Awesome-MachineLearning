@@ -3,6 +3,9 @@
 Comprehensive guide on Ensemble Learning  
 >> https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/  
 
+Primer for Ensemble Learning Bagging and Boosting  
+>> https://analyticsindiamag.com/primer-ensemble-learning-bagging-boosting/  
+
 >> Meta Algorithms:- Learning how to learn  
 >> MAML:- Model Agnostic Meta Learning  
 
