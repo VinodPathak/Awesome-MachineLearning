@@ -21,6 +21,7 @@
 #### R Implementation  
 libraries - arules and arulesViz
 
+#### FP-Growth  
 
 ### Links:  
 >> https://www.upgrad.com/blog/association-rule-mining-an-overview-and-its-applications/  
