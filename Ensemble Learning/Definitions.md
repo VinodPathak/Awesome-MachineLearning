@@ -29,6 +29,9 @@ Primer for Ensemble Learning Bagging and Boosting
 #### Stacking Note:  
 1.Combining multiple classifier or regressor models via a meta classifier or regressor  
 
+#### Ensemble R ML  
+>> Superlearner Package
+>> https://www.datacamp.com/community/tutorials/ensemble-r-machine-learning
 ### Links  
 > https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f  
 > https://blog.statsbot.co/ensemble-learning-d1dcd548e936  
