@@ -18,3 +18,5 @@
    6.3. Census Data  
    6.4. Protein Sequence:- Associations between different Amino Acids that are present in proteins.  
    
+### Links:  
+>> https://www.upgrad.com/blog/association-rule-mining-an-overview-and-its-applications/  
