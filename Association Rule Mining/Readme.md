@@ -25,3 +25,6 @@ libraries - arules and arulesViz
 ### Links:  
 >> https://www.upgrad.com/blog/association-rule-mining-an-overview-and-its-applications/  
 >> https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50  
+
+##### Association Rule mining - Kaggle  
+>> https://www.kaggle.com/datatheque/association-rules-mining-market-basket-analysis (understand the code)  
