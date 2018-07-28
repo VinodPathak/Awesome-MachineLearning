@@ -25,3 +25,8 @@ Assumption 6: No independent variable is perfect linear function of other explan
 Assumption 7: The error term is normally distributed(optional)  
 
 
+Negative R2:  
+If the regressors do not include a constant but (as some regression software packages do) you nevertheless calculate R2 by the formula
+
+R2=1−∑ni=1e2i∑ni=1(yi−y¯)2
+then the R2 can be negative. This is because, without the benefit of an intercept, the regression could do worse than the sample mean in terms of tracking the dependent variable (i.e., the numerator could be greater than the denominator).
