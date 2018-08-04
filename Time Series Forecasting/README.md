@@ -18,7 +18,8 @@ https://medium.com/auquan/time-series-analysis-for-finance-arima-models-acb5e399
 https://medium.com/auquan/time-series-analysis-for-finance-arch-garch-models-822f87f1d755  
 
 ### 
-* https://towardsdatascience.com/arima-forecasting-vocabulary-ec9b09d55be7  
+* https://towardsdatascience.com/arima-forecasting-vocabulary-ec9b09d55be7    
+* https://datascienceplus.com/time-series-analysis-using-arima-model-in-r/  
 
 ## NoteBook  
 https://github.com/Auquan/Tutorials  
