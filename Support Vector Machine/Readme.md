@@ -5,3 +5,4 @@
 * https://medium.com/deep-math-machine-learning-ai/chapter-3-support-vector-machine-with-math-47d6193c82be  
 * https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/  
 * https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/  
+* https://yunhaocsblog.wordpress.com/2014/07/27/the-effects-of-hyperparameters-in-svm/  
