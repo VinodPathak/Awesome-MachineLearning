@@ -1,9 +1,12 @@
+GEKKO
+PULP
+ORTOOLS
 
 ### supply chain  
 https://github.com/KevinFasusi/supplychainpy  
 https://github.com/KevinFasusi/supplychainpy_notebooks  
 
-### google or tools  
+### google ortools  
 https://github.com/google/or-tools/tree/master/examples/python  
 https://github.com/google/or-tools/tree/master/examples/notebook  
 
