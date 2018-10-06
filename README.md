@@ -2,6 +2,7 @@
 Links to Machine Learning Blogs  
 
 https://www.kdnuggets.com/2018/07/building-data-science-product-10-days.html  
+https://machinelearningmastery.com/spot-check-machine-learning-algorithms-in-python/  
 
 https://jermwatt.github.io/mlrefined/  
 
