@@ -19,3 +19,6 @@ https://github.com/IBMDecisionOptimization
 
 ### Linear optimization model for distributed energy systems  
 https://github.com/tum-ens/urbs  
+
+
+http://www.authorstream.com/Presentation/ravikeshari-1419781-optimization-techniques-3/  
