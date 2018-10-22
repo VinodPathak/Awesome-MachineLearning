@@ -35,3 +35,4 @@ https://github.com/RatulGhosh/awesome-machine-learning
 
 https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7  
 
+https://ml-showcase.com/  
