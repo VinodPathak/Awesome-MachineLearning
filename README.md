@@ -19,3 +19,11 @@ https://jermwatt.github.io/mlrefined/
 # ICML(International Conference on Machine Learning)  
 * https://icml.cc/
 
+## Kaggle Deep Learning  
+* https://www.kaggle.com/learn/deep-learning  
+
+## Coursera Deep Learning  
+* https://www.coursera.org/specializations/deep-learning?action=enroll  
+
+## Machine Learning Yearning  
+https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf  
