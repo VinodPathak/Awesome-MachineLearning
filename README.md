@@ -27,3 +27,6 @@ https://jermwatt.github.io/mlrefined/
 
 ## Machine Learning Yearning  
 https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf  
+
+
+http://cs229.stanford.edu/syllabus.html
