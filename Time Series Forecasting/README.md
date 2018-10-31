@@ -23,3 +23,6 @@ https://medium.com/auquan/time-series-analysis-for-finance-arch-garch-models-822
 
 ## NoteBook  
 https://github.com/Auquan/Tutorials  
+
+https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/?utm_source=plus.google.com  
+
