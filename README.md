@@ -35,9 +35,7 @@ https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf
 
 
 http://cs229.stanford.edu/syllabus.html  
-
 https://github.com/RatulGhosh/awesome-machine-learning  
-
 https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7  
-
 https://ml-showcase.com/  
+https://www.business-science.io/business/2018/06/19/business-science-problem-framework.html  
