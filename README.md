@@ -1,6 +1,8 @@
 # Awesome-MachineLearning  
 Links to Machine Learning Blogs  
 
+## Pinterest  
+> https://in.pinterest.com/pin/830421618765097598/?lp=true  
 
 ## Feature Tools
 https://github.com/Featuretools  
