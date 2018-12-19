@@ -4,6 +4,10 @@ Links to Machine Learning Blogs
 ## DataQuest Blog  
 > https://www.dataquest.io/blog/  
 
+
+## elderresearch  
+> https://www.elderresearch.com/blog  
+
 ## Pinterest  
 > https://in.pinterest.com/pin/830421618765097598/?lp=true  
 
