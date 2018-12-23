@@ -1,6 +1,9 @@
 # Awesome-MachineLearning  
 Links to Machine Learning Blogs  
 
+## Resume building  
+> https://github.com/jankapunkt/latexcv  
+
 ## DataQuest Blog  
 > https://www.dataquest.io/blog/  
 
