@@ -8,7 +8,8 @@ Links to Machine Learning Blogs
 
 ## Resume building  
 > https://github.com/jankapunkt/latexcv  
-> https://github.com/FavioVazquez/best-resume-ever  
+> https://github.com/FavioVazquez/best-resume-ever 
+> https://www.kaggle.com/sachin30  
 
 ## DataQuest Blog  
 > https://www.dataquest.io/blog/  
