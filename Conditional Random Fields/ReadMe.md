@@ -6,3 +6,4 @@
 
 ### Hidden Markov Model  
 https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3  
+https://people.csail.mit.edu/rameshvs/content/hmms.pdf  
