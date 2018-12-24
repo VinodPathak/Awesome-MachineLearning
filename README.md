@@ -1,6 +1,11 @@
 # Awesome-MachineLearning  
 Links to Machine Learning Blogs  
 
+
+## Research Papers  
+> https://hybridize.ai/trending  
+> http://www.arxiv-sanity.com/  
+
 ## Resume building  
 > https://github.com/jankapunkt/latexcv  
 > https://github.com/FavioVazquez/best-resume-ever  
