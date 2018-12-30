@@ -1,6 +1,12 @@
 # Awesome-MachineLearning  
 Links to Machine Learning Blogs  
 
+## Statistical Concepts  
+> https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-1  
+> https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explained-in-simple-english-part-2  
+> https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-3  
+> https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-4  
+> https://www.datasciencecentral.com/profiles/blogs/27-statistical-concepts-explained-in-simple-english-part-5  
 
 ## Research Papers  
 > https://hybridize.ai/trending  
