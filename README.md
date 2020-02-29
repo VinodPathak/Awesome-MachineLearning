@@ -1,5 +1,8 @@
 # Awesome-MachineLearning  
-Links to Machine Learning Blogs  
+Links to Machine Learning Blogs 
+
+##Super Machine Learning Revision
+https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter#tableofcontents
 
 ## Statistical Concepts  
 > https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-1  
